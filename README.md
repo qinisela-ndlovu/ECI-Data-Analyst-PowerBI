@@ -103,7 +103,7 @@ ECI is positively associated with COâ‚‚ emissions. Across the study period, COâ‚
 ## Repository Structure
 
 ```text
-powerbi/
+powerbi file/
 data/
 screenshots/
 ```
