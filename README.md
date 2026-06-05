@@ -76,6 +76,13 @@ The dataset contains annual observations for multiple Sub-Saharan African countr
 
 ## Dashboard Preview
 
+### ECI Trends
+
+![ECI Trends](https://github.com/qinisela-ndlovu/ECI-Data-Analyst-PowerBI/blob/main/ECI%20Exploration.png)
+
+### Factors Influencing ECI
+
+![Factors Influencing ECI](https://github.com/qinisela-ndlovu/ECI-Data-Analyst-PowerBI/blob/main/Factors_ECI.png)
 
 
 ## Key Findings
